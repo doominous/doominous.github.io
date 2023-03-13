@@ -4,7 +4,7 @@ body {
 }
 
 section {
-
+	padding: 50px;
 }
 
 iframe {
@@ -16,9 +16,10 @@ iframe {
 }
 
 header {
-  background-color: #070;
-  color: #fff;
-  text-align: center;
+	padding: 10px;
+	background-color: #070;
+	color: #fff;
+	text-align: center;
 }
 
 footer {
@@ -97,3 +98,18 @@ nav ul {
 
 
 
+h1 {
+	font-family: verdana;
+	
+}
+
+h2 {
+	font-family: verdana;
+	
+}
+
+p {
+	font-size: 18pt;
+	font-family: verdana;
+	
+}
