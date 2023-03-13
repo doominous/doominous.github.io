@@ -1,2 +1,2 @@
-# first-step
-My First Step repository for Git tutorial
+# my learning
+my progress in lerning computer science
