@@ -1,7 +1,59 @@
-h1 {
-text-align:center
-} 
+#full{
+	position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
 
-p{
-text-align:center	
+}
+
+#divide{
+	position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 10%;
+
+}
+
+#footer
+{
+	position: absolute;
+    top: 90%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+	border-top: solid;
+}
+
+#menu{
+	position: absolute;
+    top: 0;
+    right: 90%;
+    left: 0;
+    bottom: 0;
+	float: left;
+	border-right: solid;
+}
+
+#content{
+	position: absolute;
+    top: 0;
+    right: 0;
+    left: 10%;
+    bottom: 0;
+	float: right;
+}
+
+#contentIframe{
+	display: block;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+
+#footer0{
+	text-align: center;
+	
 }
